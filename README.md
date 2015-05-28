@@ -2,7 +2,7 @@
 
 Have Sakurako say this and that.
 
-    $ echo "this and that" | sakusays
+    $ echo "this and that" | sakusay
 
     ░░░░░░░░░░░░▄▄▄▀▀▀▀▀▄▄  
     ░░░░░░░░▄▄▀▀▒▒▒▒▒▒▒▒▒▒▀▀▄▄▄           
